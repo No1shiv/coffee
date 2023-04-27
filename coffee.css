@@ -57,6 +57,7 @@
 }
 .image-content{
 	background-image: url("image/background-image_coffeeshop.jpg");
+	background-size: cover;
 	height: 800px;
 	width: 100%;
 }
